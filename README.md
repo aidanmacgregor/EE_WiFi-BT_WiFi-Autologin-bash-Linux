@@ -9,6 +9,11 @@
 
 # ![48 terminal-icon copy](https://user-images.githubusercontent.com/11254983/164985283-235c64c3-415e-4cb1-8ce9-8967c23add8e.png) Linux Bash Script
 
+# Features:
+
+ - No Treminal Commands (GUI Based)
+ - Automatically Detect internet & OpenWRT Version to install libustream-mbedtls if needed
+ 
 This is a shell script to automate the sign in and always remain connected to BTWi-fi, Designed To Be Light, Simple & fast
     
 ## Terminal Running
