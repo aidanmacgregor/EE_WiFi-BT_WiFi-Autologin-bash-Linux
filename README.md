@@ -11,8 +11,7 @@
 
 # Features:
 
- - No Treminal Commands (GUI Based)
- - Automatically Detect internet & OpenWRT Version to install libustream-mbedtls if needed
+ - Simple Bash Script To Stay Online
  
 This is a shell script to automate the sign in and always remain connected to BTWi-fi, Designed To Be Light, Simple & fast
     
