@@ -18,5 +18,5 @@ This is a shell script to automate the sign in and always remain connected to BT
 ## Terminal Running
 ![WSL2](https://user-images.githubusercontent.com/11254983/173451001-cce58162-7475-4322-9744-fb842ce40209.JPG)
 
-## Linux Code & Download
-[Login Service](https://github.com/aidanmacgregor/BT_Wi-fi_Autologin_-_OpenWrt_Windows.EXE_Linux_Android-Macrodroid/tree/main/BT%20Wi-Fi%20Autologin%20Service/Login%20Service%20Linux%20(Bash))
+## Linux Download
+[Login Service](https://github.com/aidanmacgregor/BTWi-Fi_Autologin_-_Linux/releases)
