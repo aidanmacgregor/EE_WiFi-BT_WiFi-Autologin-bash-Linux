@@ -1,7 +1,7 @@
 # This Is Part Of The BT Wi-Fi Autologin Services Also Availible For
 
+ - Windows
  - OpenWRT 
- - Linux
  - Android (& Chromebook)
  
  ### Availible Here:
